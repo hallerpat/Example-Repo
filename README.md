@@ -1,3 +1,3 @@
 
-![This is Basel](basel.jpg =744x506)
+![This is Basel](basel.jpg)
 
